@@ -16,11 +16,10 @@ three channels separately to implement weighted classification.
 ![界面截图](code/Data_visualization/attention_hotmap/output_cam_image_3.jpg)
 
 -different granularities
+
 ![界面截图](code/Data_visualization/split/n02085620_7.jpg)
 
-![界面截图](code/Data_visualization/split/1.png)
-![界面截图](code/Data_visualization/split/2.png)
-![界面截图](code/Data_visualization/split/3.png)
+![界面截图](code/Data_visualization/split/1.png)![界面截图](code/Data_visualization/split/2.png)![界面截图](code/Data_visualization/split/3.png)
 
 
 
