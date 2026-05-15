@@ -5,7 +5,13 @@
 This project is used for fine-grained cat and dog image category and individual recognition, 
 drawing on the ideas of Progressive Multi Granularity Training and making lightweight 
 improvements to the model.
+
+This method performs image shuffling with three different granularities, and trains the three channels separately to implement weighted classification.
 ```
+![界面截图](code/Data_visualization/attention_hotmap/Abyssinian_1.jpg)
+![界面截图](code/Data_visualization/attention_hotmap/output_cam_image_1.jpg)
+![界面截图](code/Data_visualization/attention_hotmap/output_cam_image_2.jpg)
+![界面截图](code/Data_visualization/attention_hotmap/output_cam_image_3.jpg)
 
 ## Environment
 
